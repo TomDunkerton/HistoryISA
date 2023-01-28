@@ -37,6 +37,22 @@ As this example image shows, **on a line by itself** you type an exclamation poi
 
 To learn more about adding images, see [this link](https://leanpub.com/markua/read#images).
 
+
+
+
+
+___________________________________________
+
+
+
+![Inside CPU](images/Inside-CPU.png)
+
+
+
+______
+
+
+
 ## Lists
 
 ### Numbered Lists
